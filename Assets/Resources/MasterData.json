@@ -1,0 +1,1556 @@
+{
+    "works": [
+        {
+            "id": 1,
+            "name": "鬼滅の刃",
+            "publish": 1,
+            "active": 1,
+            "description_1": "家族を鬼に殺された少年が、",
+            "description_2": "鬼との命がけの戦いに身を投じる",
+            "genre_1": "和風",
+            "genre_2": "バトル"
+        },
+        {
+            "id": 2,
+            "name": "こちら葛飾区亀有公園前派出所",
+            "publish": 1,
+            "active": 1,
+            "description_1": "金にがめつい警察官が、",
+            "description_2": "同僚や仲間たちと騒動を巻き起こす",
+            "genre_1": "人情",
+            "genre_2": "ギャグ"
+        },
+        {
+            "id": 3,
+            "name": "キャプテン翼",
+            "publish": 1,
+            "active": 1,
+            "description_1": "「ボールは友達」が信条のサッカー少年が、",
+            "description_2": "仲間たちとサッカー大会を勝ち抜いていく",
+            "genre_1": "熱血",
+            "genre_2": "サッカー"
+        },
+        {
+            "id": 4,
+            "name": "北斗の拳",
+            "publish": 1,
+            "active": 1,
+            "description_1": "一子相伝の暗殺拳を受け継いだ主人公が、",
+            "description_2": "核戦争後の荒廃した世界を生き抜く",
+            "genre_1": "残虐",
+            "genre_2": "バトル"
+        },
+        {
+            "id": 5,
+            "name": "ドラゴンボール",
+            "publish": 1,
+            "active": 1,
+            "description_1": "純粋だが戦闘狂の主人公が、",
+            "description_2": "地球の平和をかけて悪と闘う",
+            "genre_1": "冒険",
+            "genre_2": "バトル"
+        },
+        {
+            "id": 6,
+            "name": "シティハンター",
+            "publish": 1,
+            "active": 1,
+            "description_1": "女に弱いが腕は立つスイーパーが、",
+            "description_2": "新宿で美女からの依頼をこなす",
+            "genre_1": "ハードボイルド",
+            "genre_2": "ギャグ"
+        },
+        {
+            "id": 7,
+            "name": "ジョジョの奇妙な冒険",
+            "publish": 1,
+            "active": 1,
+            "description_1": "黄金の精神を受け継いだ主人公が、",
+            "description_2": "宿敵との戦いを何百年にもわたって繰り広げる",
+            "genre_1": "ロマンホラー",
+            "genre_2": "群像"
+        },
+        {
+            "id": 8,
+            "name": "ろくでなしBLUES",
+            "publish": 1,
+            "active": 1,
+            "description_1": "圧倒的なケンカの強さを持つ不良が、",
+            "description_2": "ライバルたちを倒して東京ナンバー1の不良になる",
+            "genre_1": "ヤンキー",
+            "genre_2": "バトル"
+        },
+        {
+            "id": 9,
+            "name": "幽☆遊☆白書",
+            "publish": 1,
+            "active": 1,
+            "description_1": "あの世から蘇った不良少年が、",
+            "description_2": "魔族との命がけの戦いに身を投じる",
+            "genre_1": "怪奇",
+            "genre_2": "バトル"
+        },
+        {
+            "id": 10,
+            "name": "スラムダンク",
+            "publish": 1,
+            "active": 1,
+            "description_1": "周囲から恐れられるヤンキーが、",
+            "description_2": "バスケの面白さに目覚めていく",
+            "genre_1": "ヤンキー",
+            "genre_2": "バスケ"
+        },
+        {
+            "id": 11,
+            "name": "地獄先生ぬ〜べ〜",
+            "publish": 1,
+            "active": 1,
+            "description_1": "霊能力を持つ小学校の教師が、",
+            "description_2": "生徒を守るために妖怪や霊と戦う",
+            "genre_1": "お色気",
+            "genre_2": "人情"
+        },
+        {
+            "id": 12,
+            "name": "セクシーコマンドー外伝 すごいよ!!マサルさん",
+            "publish": 1,
+            "active": 1,
+            "description_1": "変わり者の高校生が、",
+            "description_2": "支離滅裂でドタバタな日々を繰り広げる",
+            "genre_1": "不条理",
+            "genre_2": "ギャグ"
+        },
+        {
+            "id": 13,
+            "name": "遊☆戯☆王",
+            "publish": 1,
+            "active": 1,
+            "description_1": "２つの人格を持つゲーム好きの少年が、",
+            "description_2": "命がけでカードゲームで戦う",
+            "genre_1": "戦略的",
+            "genre_2": "カードゲーム"
+        },
+        {
+            "id": 14,
+            "name": "ONE PIECE",
+            "publish": 1,
+            "active": 1,
+            "description_1": "世界一周することを夢見た海賊が、",
+            "description_2": "仲間を増やしながら世界中の海を冒険する",
+            "genre_1": "国民的",
+            "genre_2": "ファンタジー"
+        },
+        {
+            "id": 15,
+            "name": "HUNTER×HUNTER",
+            "publish": 1,
+            "active": 1,
+            "description_1": "ハンターになることを夢見た少年が、",
+            "description_2": "生き別れた父親を探す",
+            "genre_1": "戦略的",
+            "genre_2": "バトル"
+        },
+        {
+            "id": 16,
+            "name": "シャーマンキング",
+            "publish": 1,
+            "active": 1,
+            "description_1": "霊と交流できるシャーマンが、",
+            "description_2": "全世界のシャーマンの頂点に立つことを目指す",
+            "genre_1": "オカルト",
+            "genre_2": "バトル"
+        },
+        {
+            "id": 17,
+            "name": "ヒカルの碁",
+            "publish": 1,
+            "active": 1,
+            "description_1": "囲碁棋士の幽霊にとりつかれた少年が、",
+            "description_2": "囲碁の面白さに目覚めていく",
+            "genre_1": "感動",
+            "genre_2": "囲碁"
+        },
+        {
+            "id": 18,
+            "name": "テニスの王子様",
+            "publish": 1,
+            "active": 1,
+            "description_1": "生意気だけどテニスが強い少年が、",
+            "description_2": "テニスのようなスポーツでライバルたちと戦う",
+            "genre_1": "不条理",
+            "genre_2": "テニス"
+        },
+        {
+            "id": 19,
+            "name": "ピューと吹く!ジャガー",
+            "publish": 1,
+            "active": 1,
+            "description_1": "謎の笛吹き男に出会ってしまった主人公が、",
+            "description_2": "愉快で不条理な青春の日々を送る",
+            "genre_1": "不条理",
+            "genre_2": "ギャグ"
+        },
+        {
+            "id": 20,
+            "name": "いちご100%",
+            "publish": 1,
+            "active": 1,
+            "description_1": "優柔不断だけどモテモテの少年が、",
+            "description_2": "たくさんの女の子に囲まれてモテモテの日々を過ごす",
+            "genre_1": "お色気",
+            "genre_2": "ラブコメ"
+        },
+        {
+            "id": 21,
+            "name": "DEATH NOTE",
+            "publish": 1,
+            "active": 1,
+            "description_1": "デスノートを拾った天才少年が、",
+            "description_2": "理想の世界を作るために、人殺しに手を染めていく",
+            "genre_1": "知略",
+            "genre_2": "サスペンス"
+        },
+        {
+            "id": 22,
+            "name": "黒子のバスケ",
+            "publish": 1,
+            "active": 1,
+            "description_1": "存在に気づかれないほど影の薄い少年が、",
+            "description_2": "その能力を活かしてバスケの大会を勝ち進む",
+            "genre_1": "青春",
+            "genre_2": "バスケ"
+        },
+        {
+            "id": 23,
+            "name": "僕のヒーローアカデミア",
+            "publish": 1,
+            "active": 1,
+            "description_1": "何の才能も無い少年が、",
+            "description_2": "夢を諦めずにヒーロー育成学校に入学する",
+            "genre_1": "青春",
+            "genre_2": "学園"
+        },
+        {
+            "id": 24,
+            "name": "約束のネバーランド",
+            "publish": 1,
+            "active": 1,
+            "description_1": "怪物たちの「食料」として育てられている少女が、",
+            "description_2": "生き延びるために館を脱出する",
+            "genre_1": "サイコ",
+            "genre_2": "サスペンス"
+        },
+        {
+            "id": 25,
+            "name": "キン肉マン",
+            "publish": 1,
+            "active": 1,
+            "description_1": "ムキムキの肉体を持つ宇宙人が、",
+            "description_2": "正義のためにプロレスで対決する",
+            "genre_1": "熱血",
+            "genre_2": "プロレス"
+        },
+        {
+            "id": 26,
+            "name": "ドラゴンクエスト ダイの大冒険",
+            "publish": 1,
+            "active": 1,
+            "description_1": "勇者に憧れる少年が、",
+            "description_2": "世界を救うために大魔王を倒す旅に出る",
+            "genre_1": "王道",
+            "genre_2": "ファンタジー"
+        },
+        {
+            "id": 27,
+            "name": "魁！！男塾",
+            "publish": 1,
+            "active": 1,
+            "description_1": "物静かだが謎の多い主人公が、",
+            "description_2": "「男塾」で真の大和男子になる教育を受ける",
+            "genre_1": "不条理",
+            "genre_2": "バトル"
+        },
+        {
+            "id": 28,
+            "name": "スケットダンス",
+            "publish": 1,
+            "active": 1,
+            "description_1": "人助けの部活に所属している少年が、",
+            "description_2": "みんなが楽しい学校生活を送れるように人助けをする",
+            "genre_1": "青春",
+            "genre_2": "ギャグ"
+        },
+        {
+            "id": 29,
+            "name": "ぬらりひょんの孫",
+            "publish": 1,
+            "active": 1,
+            "description_1": "妖怪の総大将の血を引く少年が、",
+            "description_2": "妖怪たちの抗争に巻き込まれていく",
+            "genre_1": "怪奇",
+            "genre_2": "バトル"
+        },
+        {
+            "id": 30,
+            "name": "電影少女",
+            "publish": 1,
+            "active": 1,
+            "description_1": "ビデオの中から出てきた少女が、",
+            "description_2": "他人の恋を応援するうちに、自分も恋心に目覚めていく",
+            "genre_1": "お色気",
+            "genre_2": "ラブコメ"
+        },
+        {
+            "id": 31,
+            "name": "きまぐれオレンジロード",
+            "publish": 1,
+            "active": 1,
+            "description_1": "超能力一家の長男である主人公が、",
+            "description_2": "２人の美少女との三角関係に巻き込まれていく",
+            "genre_1": "純愛",
+            "genre_2": "ラブコメ"
+        },
+        {
+            "id": 32,
+            "name": "暗殺教室",
+            "publish": 1,
+            "active": 1,
+            "description_1": "落ちこぼれのクラスの生徒達が、",
+            "description_2": "教師を暗殺することを目論む",
+            "genre_1": "感動",
+            "genre_2": "サスペンス"
+        },
+        {
+            "id": 33,
+            "name": "ニセコイ",
+            "publish": 1,
+            "active": 1,
+            "description_1": "ヤクザの跡取りに生まれた主人公が、",
+            "description_2": "マフィアの娘と偽の恋人関係を演じる",
+            "genre_1": "お色気",
+            "genre_2": "ラブコメ"
+        },
+        {
+            "id": 34,
+            "name": "かぐや様は告らせたい",
+            "publish": 10,
+            "active": 1,
+            "description_1": "素直になれない天才少女が、",
+            "description_2": "好きな人の本音を引き出すために頑張る",
+            "genre_1": "知略",
+            "genre_2": "ラブコメ"
+        },
+        {
+            "id": 35,
+            "name": "嘘喰い",
+            "publish": 10,
+            "active": 0,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "",
+            "genre_2": ""
+        },
+        {
+            "id": 36,
+            "name": "男一匹ガキ大将",
+            "publish": 1,
+            "active": 0,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "",
+            "genre_2": ""
+        },
+        {
+            "id": 37,
+            "name": "ハレンチ学園",
+            "publish": 1,
+            "active": 1,
+            "description_1": "スケベだが純粋な主人公が、",
+            "description_2": "女の子のスカートをめくって社会問題になる",
+            "genre_1": "お色気",
+            "genre_2": "ギャグ"
+        },
+        {
+            "id": 38,
+            "name": "ど根性ガエル",
+            "publish": 1,
+            "active": 1,
+            "description_1": "シャツに張り付いてしまったカエルが、",
+            "description_2": "周囲の人を巻き込んでドタバタ劇を繰り広げる",
+            "genre_1": "人情",
+            "genre_2": "ギャグ"
+        },
+        {
+            "id": 39,
+            "name": "はだしのゲン",
+            "publish": 1,
+            "active": 1,
+            "description_1": "家族を戦争で失った少年が、",
+            "description_2": "原爆投下後の悲惨な世界を生き抜く",
+            "genre_1": "シリアス",
+            "genre_2": "戦争"
+        },
+        {
+            "id": 40,
+            "name": "リングにかけろ",
+            "publish": 1,
+            "active": 1,
+            "description_1": "プロボクサーの息子が、",
+            "description_2": "ボクシングの世界チャンピオンを目指す",
+            "genre_1": "大迫力",
+            "genre_2": "スポ根"
+        },
+        {
+            "id": 41,
+            "name": "すすめ!!パイレーツ",
+            "publish": 1,
+            "active": 0,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "",
+            "genre_2": ""
+        },
+        {
+            "id": 42,
+            "name": "ストップ!! ひばりくん!",
+            "publish": 1,
+            "active": 0,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "",
+            "genre_2": ""
+        },
+        {
+            "id": 43,
+            "name": "よろしくメカドック",
+            "publish": 1,
+            "active": 0,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "",
+            "genre_2": ""
+        },
+        {
+            "id": 44,
+            "name": "天地を喰らう",
+            "publish": 1,
+            "active": 1,
+            "description_1": "劉備玄徳が、",
+            "description_2": "曹操や呂布を倒して中華の覇者になることを目指す",
+            "genre_1": "歴史",
+            "genre_2": "戦記"
+        },
+        {
+            "id": 45,
+            "name": "ついでにとんちんかん",
+            "publish": 1,
+            "active": 0,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "",
+            "genre_2": ""
+        },
+        {
+            "id": 46,
+            "name": "燃える!お兄さん",
+            "publish": 1,
+            "active": 0,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "",
+            "genre_2": ""
+        },
+        {
+            "id": 47,
+            "name": "ジャングルの王者ターちゃん♡",
+            "publish": 1,
+            "active": 1,
+            "description_1": "チンパンジーに育てられた主人公が、",
+            "description_2": "ジャングルの平和を守るために戦う",
+            "genre_1": "能天気",
+            "genre_2": "ギャグ"
+        },
+        {
+            "id": 48,
+            "name": "神様はサウスポー",
+            "publish": 1,
+            "active": 0,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "",
+            "genre_2": ""
+        },
+        {
+            "id": 49,
+            "name": "ボクはしたたか君",
+            "publish": 1,
+            "active": 0,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "",
+            "genre_2": ""
+        },
+        {
+            "id": 50,
+            "name": "CYBORGじいちゃんG",
+            "publish": 1,
+            "active": 0,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "",
+            "genre_2": ""
+        },
+        {
+            "id": 51,
+            "name": "てんで性悪キューピッド",
+            "publish": 1,
+            "active": 0,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "",
+            "genre_2": ""
+        },
+        {
+            "id": 52,
+            "name": "ボンボン坂高校演劇部",
+            "publish": 1,
+            "active": 0,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "",
+            "genre_2": ""
+        },
+        {
+            "id": 53,
+            "name": "とっても!ラッキーマン",
+            "publish": 1,
+            "active": 0,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "",
+            "genre_2": ""
+        },
+        {
+            "id": 54,
+            "name": "ロケットでつきぬけろ!",
+            "publish": 1,
+            "active": 1,
+            "description_1": "トラックの運転手になることを夢見ていた少年が、",
+            "description_2": "伝説のレーサーになることを目指す",
+            "genre_1": "ド迫力",
+            "genre_2": "レース"
+        },
+        {
+            "id": 55,
+            "name": "りりむキッス",
+            "publish": 1,
+            "active": 1,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "",
+            "genre_2": ""
+        },
+        {
+            "id": 56,
+            "name": "べしゃり暮らし",
+            "publish": 1,
+            "active": 1,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "",
+            "genre_2": ""
+        },
+        {
+            "id": 57,
+            "name": "火ノ丸相撲",
+            "publish": 1,
+            "active": 0,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "",
+            "genre_2": ""
+        },
+        {
+            "id": 58,
+            "name": "ぼくたちは勉強ができない",
+            "publish": 1,
+            "active": 1,
+            "description_1": "女の子に勉強を教えることになった主人公が、",
+            "description_2": "たくさんの女の子にモテモテになる",
+            "genre_1": "ハーレム",
+            "genre_2": "ラブコメ"
+        },
+        {
+            "id": 59,
+            "name": "進撃の巨人",
+            "publish": 99,
+            "active": 1,
+            "description_1": "巨人になる力を得た主人公が、",
+            "description_2": "世界を救うために、絶望的な戦いに身を投じる",
+            "genre_1": "本格",
+            "genre_2": "ファンタジー"
+        },
+        {
+            "id": 60,
+            "name": "名探偵コナン",
+            "publish": 2,
+            "active": 1,
+            "description_1": "薬の力で子供になってしまった探偵が、",
+            "description_2": "大人になるために組織の秘密を探る",
+            "genre_1": "国民的",
+            "genre_2": "推理"
+        },
+        {
+            "id": 61,
+            "name": "犬夜叉",
+            "publish": 2,
+            "active": 1,
+            "description_1": "戦国時代にタイムスリップしてしまった少女が、",
+            "description_2": "妖怪を封印するために旅をする",
+            "genre_1": "怪奇",
+            "genre_2": "バトル"
+        },
+        {
+            "id": 62,
+            "name": "ハヤテのごとく",
+            "publish": 2,
+            "active": 1,
+            "description_1": "借金まみれの主人公が、",
+            "description_2": "可愛い女の子に執事として仕える",
+            "genre_1": "マニアック",
+            "genre_2": "ラブコメ"
+        },
+        {
+            "id": 63,
+            "name": "らんま1/2",
+            "publish": 2,
+            "active": 1,
+            "description_1": "水に濡れると女になってしまう少年が、",
+            "description_2": "バトルあり、恋愛ありのドタバタ学園生活を過ごす",
+            "genre_1": "お色気",
+            "genre_2": "学園"
+        },
+        {
+            "id": 64,
+            "name": "五等分の花嫁",
+            "publish": 3,
+            "active": 1,
+            "description_1": "5人姉妹の家庭教師になった主人公が、",
+            "description_2": "5人の美人姉妹からモテモテになる",
+            "genre_1": "純愛",
+            "genre_2": "ラブコメ"
+        },
+        {
+            "id": 65,
+            "name": "はじめの一歩",
+            "publish": 3,
+            "active": 1,
+            "description_1": "いじめられっ子の少年が、",
+            "description_2": "プロボクサーになって勝ち進んでいく",
+            "genre_1": "熱血",
+            "genre_2": "ボクシング"
+        },
+        {
+            "id": 66,
+            "name": "七つの大罪",
+            "publish": 3,
+            "active": 1,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "王道",
+            "genre_2": "ファンタジー"
+        },
+        {
+            "id": 67,
+            "name": "ミスター味っ子",
+            "publish": 3,
+            "active": 1,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "ド迫力",
+            "genre_2": "料理"
+        },
+        {
+            "id": 68,
+            "name": "金田一少年の事件簿",
+            "publish": 3,
+            "active": 1,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "本格",
+            "genre_2": "サスペンス"
+        },
+        {
+            "id": 69,
+            "name": "ヒナまつり",
+            "publish": 99,
+            "active": 1,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "不条理",
+            "genre_2": "ギャグ"
+        },
+        {
+            "id": 70,
+            "name": "監獄学園",
+            "publish": 99,
+            "active": 1,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "知略",
+            "genre_2": "ギャグ"
+        },
+        {
+            "id": 71,
+            "name": "まいっちんぐマチコ先生",
+            "publish": 99,
+            "active": 1,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "セクシー",
+            "genre_2": "ギャグ"
+        },
+        {
+            "id": 72,
+            "name": "絶対可憐チルドレン",
+            "publish": 2,
+            "active": 1,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "幼女",
+            "genre_2": "バトル"
+        },
+        {
+            "id": 73,
+            "name": "からくりサーカス",
+            "publish": 2,
+            "active": 1,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "重厚",
+            "genre_2": "ストーリー"
+        },
+        {
+            "id": 74,
+            "name": "今日から俺は!!",
+            "publish": 2,
+            "active": 1,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "不良",
+            "genre_2": "バトル"
+        },
+        {
+            "id": 75,
+            "name": "史上最強の弟子ケンイチ",
+            "publish": 2,
+            "active": 1,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "熱血",
+            "genre_2": "ケンカ"
+        },
+        {
+            "id": 76,
+            "name": "甘く危険なナンパ刑事",
+            "publish": 2,
+            "active": 1,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "お気楽",
+            "genre_2": "ギャグ"
+        },
+        {
+            "id": 77,
+            "name": "神さまの言うとおり",
+            "publish": 3,
+            "active": 1,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "本格",
+            "genre_2": "サスペンス"
+        },
+        {
+            "id": 78,
+            "name": "さよなら絶望先生",
+            "publish": 3,
+            "active": 1,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "不条理",
+            "genre_2": "ギャグ"
+        },
+        {
+            "id": 79,
+            "name": "将太の寿司",
+            "publish": 3,
+            "active": 1,
+            "description_1": "",
+            "description_2": "",
+            "genre_1": "感動",
+            "genre_2": "料理"
+        }
+    ],
+    "titles": [
+        {
+            "id": 1,
+            "name": "鬼滅",
+            "particle": "の",
+            "position": 1,
+            "work_id": 1,
+            "active": 1
+        },
+        {
+            "id": 2,
+            "name": "刃",
+            "particle": "の",
+            "position": 2,
+            "work_id": 1,
+            "active": 1
+        },
+        {
+            "id": 3,
+            "name": "こちら葛飾区亀有公園前",
+            "particle": "",
+            "position": 1,
+            "work_id": 2,
+            "active": 1
+        },
+        {
+            "id": 4,
+            "name": "派出所",
+            "particle": "",
+            "position": 2,
+            "work_id": 2,
+            "active": 1
+        },
+        {
+            "id": 5,
+            "name": "キャプテン",
+            "particle": "",
+            "position": 1,
+            "work_id": 3,
+            "active": 1
+        },
+        {
+            "id": 6,
+            "name": "北斗",
+            "particle": "の",
+            "position": 1,
+            "work_id": 4,
+            "active": 1
+        },
+        {
+            "id": 7,
+            "name": "拳",
+            "particle": "の",
+            "position": 2,
+            "work_id": 4,
+            "active": 1
+        },
+        {
+            "id": 8,
+            "name": "ドラゴン",
+            "particle": "",
+            "position": 1,
+            "work_id": 5,
+            "active": 1
+        },
+        {
+            "id": 9,
+            "name": "ボール",
+            "particle": "",
+            "position": 2,
+            "work_id": 5,
+            "active": 1
+        },
+        {
+            "id": 10,
+            "name": "シティ",
+            "particle": "",
+            "position": 1,
+            "work_id": 6,
+            "active": 0
+        },
+        {
+            "id": 11,
+            "name": "ハンター",
+            "particle": "",
+            "position": 2,
+            "work_id": 6,
+            "active": 1
+        },
+        {
+            "id": 12,
+            "name": "ジョジョの奇妙",
+            "particle": "な",
+            "position": 1,
+            "work_id": 7,
+            "active": 1
+        },
+        {
+            "id": 13,
+            "name": "奇妙な冒険",
+            "particle": "の",
+            "position": 2,
+            "work_id": 7,
+            "active": 1
+        },
+        {
+            "id": 14,
+            "name": "ろくでなし",
+            "particle": "",
+            "position": 1,
+            "work_id": 8,
+            "active": 1
+        },
+        {
+            "id": 15,
+            "name": "ろくでなし",
+            "particle": "の",
+            "position": 2,
+            "work_id": 8,
+            "active": 1
+        },
+        {
+            "id": 16,
+            "name": "ブルース",
+            "particle": "",
+            "position": 2,
+            "work_id": 8,
+            "active": 1
+        },
+        {
+            "id": 17,
+            "name": "白書",
+            "particle": "",
+            "position": 2,
+            "work_id": 9,
+            "active": 1
+        },
+        {
+            "id": 18,
+            "name": "スラム",
+            "particle": "",
+            "position": 1,
+            "work_id": 10,
+            "active": 1
+        },
+        {
+            "id": 19,
+            "name": "地獄",
+            "particle": "",
+            "position": 1,
+            "work_id": 11,
+            "active": 1
+        },
+        {
+            "id": 20,
+            "name": "先生",
+            "particle": "",
+            "position": 2,
+            "work_id": 11,
+            "active": 1
+        },
+        {
+            "id": 21,
+            "name": "すごいよ!!",
+            "particle": "NONE",
+            "position": 1,
+            "work_id": 12,
+            "active": 1
+        },
+        {
+            "id": 22,
+            "name": "王",
+            "particle": "",
+            "position": 2,
+            "work_id": 13,
+            "active": 1
+        },
+        {
+            "id": 23,
+            "name": "ピース",
+            "particle": "",
+            "position": 2,
+            "work_id": 14,
+            "active": 1
+        },
+        {
+            "id": 24,
+            "name": "キング",
+            "particle": "",
+            "position": 2,
+            "work_id": 16,
+            "active": 1
+        },
+        {
+            "id": 25,
+            "name": "碁",
+            "particle": "の",
+            "position": 2,
+            "work_id": 17,
+            "active": 1
+        },
+        {
+            "id": 26,
+            "name": "テニス",
+            "particle": "の",
+            "position": 1,
+            "work_id": 18,
+            "active": 1
+        },
+        {
+            "id": 27,
+            "name": "王子様",
+            "particle": "の",
+            "position": 2,
+            "work_id": 18,
+            "active": 1
+        },
+        {
+            "id": 28,
+            "name": "ピューと吹く!",
+            "particle": "NONE",
+            "position": 1,
+            "work_id": 19,
+            "active": 1
+        },
+        {
+            "id": 29,
+            "name": "いちご",
+            "particle": "",
+            "position": 1,
+            "work_id": 20,
+            "active": 1
+        },
+        {
+            "id": 30,
+            "name": "100%",
+            "particle": "",
+            "position": 2,
+            "work_id": 20,
+            "active": 1
+        },
+        {
+            "id": 31,
+            "name": "デス",
+            "particle": "",
+            "position": 1,
+            "work_id": 21,
+            "active": 1
+        },
+        {
+            "id": 32,
+            "name": "ノート",
+            "particle": "",
+            "position": 2,
+            "work_id": 21,
+            "active": 1
+        },
+        {
+            "id": 33,
+            "name": "黒子",
+            "particle": "の",
+            "position": 1,
+            "work_id": 22,
+            "active": 1
+        },
+        {
+            "id": 34,
+            "name": "バスケ",
+            "particle": "の",
+            "position": 2,
+            "work_id": 22,
+            "active": 1
+        },
+        {
+            "id": 35,
+            "name": "僕",
+            "particle": "の",
+            "position": 1,
+            "work_id": 23,
+            "active": 1
+        },
+        {
+            "id": 36,
+            "name": "約束",
+            "particle": "の",
+            "position": 1,
+            "work_id": 24,
+            "active": 1
+        },
+        {
+            "id": 37,
+            "name": "ネバーランド",
+            "particle": "の",
+            "position": 2,
+            "work_id": 24,
+            "active": 1
+        },
+        {
+            "id": 38,
+            "name": "キン肉",
+            "particle": "",
+            "position": 1,
+            "work_id": 25,
+            "active": 1
+        },
+        {
+            "id": 39,
+            "name": "マン",
+            "particle": "NONE",
+            "position": 2,
+            "work_id": 25,
+            "active": 1
+        },
+        {
+            "id": 40,
+            "name": "大冒険",
+            "particle": "の",
+            "position": 2,
+            "work_id": 26,
+            "active": 1
+        },
+        {
+            "id": 41,
+            "name": "魁!!",
+            "particle": "NONE",
+            "position": 1,
+            "work_id": 27,
+            "active": 1
+        },
+        {
+            "id": 42,
+            "name": "ぬらりひょん",
+            "particle": "の",
+            "position": 1,
+            "work_id": 29,
+            "active": 1
+        },
+        {
+            "id": 43,
+            "name": "孫",
+            "particle": "の",
+            "position": 2,
+            "work_id": 29,
+            "active": 1
+        },
+        {
+            "id": 44,
+            "name": "電影",
+            "particle": "",
+            "position": 1,
+            "work_id": 30,
+            "active": 0
+        },
+        {
+            "id": 45,
+            "name": "少女",
+            "particle": "",
+            "position": 2,
+            "work_id": 30,
+            "active": 1
+        },
+        {
+            "id": 46,
+            "name": "きまぐれ",
+            "particle": "",
+            "position": 1,
+            "work_id": 31,
+            "active": 1
+        },
+        {
+            "id": 47,
+            "name": "暗殺",
+            "particle": "",
+            "position": 1,
+            "work_id": 32,
+            "active": 1
+        },
+        {
+            "id": 48,
+            "name": "教室",
+            "particle": "",
+            "position": 2,
+            "work_id": 32,
+            "active": 1
+        },
+        {
+            "id": 49,
+            "name": "ニセ",
+            "particle": "",
+            "position": 1,
+            "work_id": 33,
+            "active": 1
+        },
+        {
+            "id": 50,
+            "name": "かぐや様",
+            "particle": "は",
+            "position": 1,
+            "work_id": 34,
+            "active": 1
+        },
+        {
+            "id": 51,
+            "name": "告らせたい",
+            "particle": "は",
+            "position": 2,
+            "work_id": 34,
+            "active": 1
+        },
+        {
+            "id": 52,
+            "name": "進撃",
+            "particle": "の",
+            "position": 1,
+            "work_id": 59,
+            "active": 1
+        },
+        {
+            "id": 53,
+            "name": "巨人",
+            "particle": "の",
+            "position": 2,
+            "work_id": 59,
+            "active": 1
+        },
+        {
+            "id": 54,
+            "name": "ぼくたち",
+            "particle": "は",
+            "position": 1,
+            "work_id": 58,
+            "active": 1
+        },
+        {
+            "id": 55,
+            "name": "勉強ができない",
+            "particle": "は",
+            "position": 2,
+            "work_id": 58,
+            "active": 1
+        },
+        {
+            "id": 56,
+            "name": "名探偵",
+            "particle": "",
+            "position": 1,
+            "work_id": 60,
+            "active": 1
+        },
+        {
+            "id": 57,
+            "name": "犬",
+            "particle": "",
+            "position": 1,
+            "work_id": 61,
+            "active": 1
+        },
+        {
+            "id": 58,
+            "name": "夜叉",
+            "particle": "",
+            "position": 2,
+            "work_id": 61,
+            "active": 1
+        },
+        {
+            "id": 59,
+            "name": "ごとく",
+            "particle": "の",
+            "position": 2,
+            "work_id": 62,
+            "active": 1
+        },
+        {
+            "id": 60,
+            "name": "1/2",
+            "particle": "",
+            "position": 2,
+            "work_id": 63,
+            "active": 1
+        },
+        {
+            "id": 61,
+            "name": "五等分",
+            "particle": "の",
+            "position": 1,
+            "work_id": 64,
+            "active": 1
+        },
+        {
+            "id": 62,
+            "name": "花嫁",
+            "particle": "の",
+            "position": 2,
+            "work_id": 64,
+            "active": 1
+        },
+        {
+            "id": 63,
+            "name": "はじめ",
+            "particle": "の",
+            "position": 1,
+            "work_id": 65,
+            "active": 1
+        },
+        {
+            "id": 64,
+            "name": "一歩",
+            "particle": "の",
+            "position": 2,
+            "work_id": 65,
+            "active": 1
+        },
+        {
+            "id": 65,
+            "name": "七つ",
+            "particle": "の",
+            "position": 1,
+            "work_id": 66,
+            "active": 1
+        },
+        {
+            "id": 66,
+            "name": "大罪",
+            "particle": "の",
+            "position": 2,
+            "work_id": 66,
+            "active": 1
+        },
+        {
+            "id": 67,
+            "name": "ミスター",
+            "particle": "",
+            "position": 1,
+            "work_id": 67,
+            "active": 1
+        },
+        {
+            "id": 68,
+            "name": "金田一少年",
+            "particle": "の",
+            "position": 1,
+            "work_id": 68,
+            "active": 1
+        },
+        {
+            "id": 69,
+            "name": "事件簿",
+            "particle": "の",
+            "position": 2,
+            "work_id": 68,
+            "active": 1
+        },
+        {
+            "id": 70,
+            "name": "まつり",
+            "particle": "NONE",
+            "position": 2,
+            "work_id": 69,
+            "active": 1
+        },
+        {
+            "id": 71,
+            "name": "ハレンチ",
+            "particle": "",
+            "position": 1,
+            "work_id": 37,
+            "active": 1
+        },
+        {
+            "id": 72,
+            "name": "ハレンチ",
+            "particle": "",
+            "position": 2,
+            "work_id": 37,
+            "active": 1
+        },
+        {
+            "id": 73,
+            "name": "学園",
+            "particle": "",
+            "position": 2,
+            "work_id": 37,
+            "active": 1
+        },
+        {
+            "id": 74,
+            "name": "ど根性",
+            "particle": "",
+            "position": 1,
+            "work_id": 38,
+            "active": 1
+        },
+        {
+            "id": 75,
+            "name": "ジャングルの王者",
+            "particle": "",
+            "position": 1,
+            "work_id": 47,
+            "active": 1
+        },
+        {
+            "id": 76,
+            "name": "キッス",
+            "particle": "",
+            "position": 1,
+            "work_id": 55,
+            "active": 1
+        },
+        {
+            "id": 77,
+            "name": "暮らし",
+            "particle": "NONE",
+            "position": 2,
+            "work_id": 56,
+            "active": 1
+        },
+        {
+            "id": 78,
+            "name": "はだし",
+            "particle": "の",
+            "position": 1,
+            "work_id": 39,
+            "active": 1
+        },
+        {
+            "id": 79,
+            "name": "喰らう",
+            "particle": "を",
+            "position": 2,
+            "work_id": 44,
+            "active": 1
+        },
+        {
+            "id": 80,
+            "name": "監獄",
+            "particle": "",
+            "position": 1,
+            "work_id": 70,
+            "active": 1
+        },
+        {
+            "id": 81,
+            "name": "かけろ",
+            "particle": "に",
+            "position": 2,
+            "work_id": 40,
+            "active": 1
+        },
+        {
+            "id": 82,
+            "name": "つきぬけろ!",
+            "particle": "で",
+            "position": 2,
+            "work_id": 54,
+            "active": 1
+        },
+        {
+            "id": 83,
+            "name": "まいっちんぐ",
+            "particle": "",
+            "position": 1,
+            "work_id": 71,
+            "active": 1
+        },
+        {
+            "id": 84,
+            "name": "絶対可憐",
+            "particle": "",
+            "position": 1,
+            "work_id": 72,
+            "active": 1
+        },
+        {
+            "id": 85,
+            "name": "チルドレン",
+            "particle": "",
+            "position": 2,
+            "work_id": 72,
+            "active": 1
+        },
+        {
+            "id": 86,
+            "name": "からくり",
+            "particle": "",
+            "position": 1,
+            "work_id": 73,
+            "active": 1
+        },
+        {
+            "id": 87,
+            "name": "サーカス",
+            "particle": "",
+            "position": 2,
+            "work_id": 73,
+            "active": 1
+        },
+        {
+            "id": 88,
+            "name": "今日から",
+            "particle": "",
+            "position": 1,
+            "work_id": 74,
+            "active": 1
+        },
+        {
+            "id": 89,
+            "name": "史上最強",
+            "particle": "の",
+            "position": 1,
+            "work_id": 75,
+            "active": 1
+        },
+        {
+            "id": 90,
+            "name": "甘く危険",
+            "particle": "な",
+            "position": 1,
+            "work_id": 76,
+            "active": 1
+        },
+        {
+            "id": 91,
+            "name": "神さま",
+            "particle": "の",
+            "position": 1,
+            "work_id": 77,
+            "active": 1
+        },
+        {
+            "id": 92,
+            "name": "言うとおり",
+            "particle": "の",
+            "position": 2,
+            "work_id": 77,
+            "active": 1
+        },
+        {
+            "id": 93,
+            "name": "さよなら",
+            "particle": "",
+            "position": 1,
+            "work_id": 78,
+            "active": 1
+        },
+        {
+            "id": 94,
+            "name": "先生",
+            "particle": "",
+            "position": 2,
+            "work_id": 78,
+            "active": 1
+        },
+        {
+            "id": 95,
+            "name": "寿司",
+            "particle": "の",
+            "position": 2,
+            "work_id": 79,
+            "active": 1
+        }
+    ]
+}
